@@ -1,0 +1,110 @@
+h2{
+    position : absolute; left : 0px; top : 0px;
+    font-size: 100px;
+    font-family : Arial Narrow Bold;
+    color : rgb(255, 255, 255);
+    background-size: 100% 100% ;
+}
+.divs{
+    width : 200px;
+    height : 200px;
+    color: transparent;
+    background-color: transparent;
+    font-size : 30px;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.divs:hover{
+    color : white;
+    transition : ease-in-out 2s;
+}
+#b2:hover{
+    color : rgb(23, 189, 235);
+    transition : ease-in-out 2s;
+}
+#a{
+    position : absolute; top : 100px; left : 1000px;
+}
+#b{
+    position : absolute; top : 100px; left : 2000px;
+}
+#c{
+    position : absolute; top : 100px; left : 3000px;
+}
+#d{
+    position : absolute; top : 100px; left : 4000px;
+}
+#e{
+    position : absolute; top : 100px; left : 5000px;
+}
+#f{
+    position : absolute; top : 100px; left : 7600px;
+}
+#a1{
+    position : absolute; top: 1000px; left : 100px;
+}
+#a2{
+    position : absolute; top: 2000px; left : 100px;
+}
+#a3{
+    position : absolute; top : 3000px; left : 100px;
+}
+#a4{
+    position : absolute; top : 4000px; left : 100px;
+}
+#a5{
+    position : absolute; top : 5500px; left : 100px;
+}
+#b2{
+    position : absolute; top : 1800px; left : 1600px;
+}
+#b3{
+    position : absolute; top: 1200px; left : 2500px;
+}
+#f1{
+    position : absolute; top : 1000px; left : 7600px;
+}
+#f2{
+    position : absolute; top : 2000px; left : 7600px;
+}
+#f3{
+    position : absolute; top : 3000px; left : 7600px;
+}
+#f4{
+    position : absolute; top : 4000px; left : 7600px;
+}
+#f5{
+    position : absolute; top : 5500px; left : 7600px;
+}
+#d5{
+    position : absolute; top : 5500px; left : 4000px;
+}
+#c3{
+    position: absolute; top : 3000px; left : 3000px;
+}
+#c4{
+    position : absolute ; top : 4000px ; left : 3000px;
+}
+#d3{
+    position : absolute ; top : 3000px; left : 6000px;
+}
+#d4{
+    position : absolute; top : 2600px; left : 4000px;
+}
+#e4{
+    position : absolute; top : 2600px; left : 5100px;
+}
+#e5{
+    position : absolute; top : 3200px; left : 5100px;
+}
+#z0{
+    position : relative; bottom : 250px; right : 180px;
+    opacity: 0%;
+}
+#GG{
+    text-align : center;
+    color : black;
+    width : 450px;
+}
